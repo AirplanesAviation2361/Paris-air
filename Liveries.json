@@ -1,0 +1,20 @@
+name": "Paris Air",
+  "color": "Red,black",
+  "bgcolor": "white",
+  "aircrafts": {
+    "24": {
+      "name": "Airbus A320neo",
+      "liveries": [
+        {
+          "name": "Standard livery",
+          "texture": [
+"https://raw.githubusercontent.com/AirplanesAviation2361/Fly-Pakistan-/refs/heads/main/Texture",
+"https://i.ibb.co/PZCLMHvX/B777.jpg"
+],
+ 
+          "credits": "AirplanesAviation2361"
+        }
+      ],
+        "labels": [
+            "Specular Shader",
+            "Texture"      
